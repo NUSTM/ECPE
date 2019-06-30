@@ -1,5 +1,5 @@
 
-# \{Emotion, Cause\} Pair Extraction: A New Task to Emotion Analysis in Texts
+# Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts
 
 This repository contains the code for our ACL 2019 paper:
 
