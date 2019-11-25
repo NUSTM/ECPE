@@ -3,7 +3,7 @@
 
 This repository contains the code for our ACL 2019 paper:
 
-Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. ACL 2019. https://arxiv.org/abs/1906.01267
+Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. ACL 2019 (Outstanding Paper Award). [[pdf](https://www.aclweb.org/anthology/P19-1096.pdf)]
 
 Please cite our paper if you use this code.
 
